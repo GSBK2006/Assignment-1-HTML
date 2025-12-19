@@ -26,19 +26,21 @@ Bhavesh Kumar.jpg: Profile image asset.
 
 Resume.pdf: Professional resume for download.
 
-Folder Structure
+# Folder Structure
 
 To ensure the website loads assets and links correctly, maintain the following directory layout:
-
+```bash
 /g-s-bhavesh-kumar-portfolio
 │
 ├── index.html            # Main entry point
 ├── profile.html          # Detailed profile page
 ├── Bhavesh Kumar.jpg     # Profile photo
 └── Resume.pdf            # Professional resume
+```
 
 
-Technical Features
+
+# Technical Features
 
 Semantic HTML5: Used proper tags like <header>, <nav>, <main>, <section>, and <footer> for better accessibility and SEO.
 
@@ -48,7 +50,7 @@ Navigation: Implemented internal anchor links for smooth scrolling between secti
 
 Interactive Elements: Includes a functional contact form and a direct download button for my resume.
 
-Academic Context
+# Academic Context
 
 Institution: National Institute of Technology, Puducherry.
 
@@ -56,7 +58,7 @@ Degree: B.Tech in Computer Science and Engineering (2024 - 2028).
 
 Current Grade: CGPA 9.70.
 
-How to Run Locally
+# How to Run Locally
 
 Clone the repository or download the ZIP file.
 
