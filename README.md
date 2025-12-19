@@ -43,7 +43,7 @@ To ensure the website loads assets and links correctly, maintain the following d
 
 # Technical Features
 
-Semantic HTML5: Used proper tags like <header>, <nav>, <main>, <section>, and <footer> for better accessibility and SEO.
+Semantic HTML5: Used proper tags like <header>, <nav>, <main>, <section>, and <footer> for better accessibility.
 
 Responsive Layout: Built with a mobile-first approach using CSS Flexbox and Grid to ensure compatibility across all devices.
 
