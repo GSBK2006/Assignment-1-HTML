@@ -29,6 +29,7 @@ Resume.pdf: Professional resume for download.
 # Folder Structure
 
 To ensure the website loads assets and links correctly, maintain the following directory layout:
+
 ```bash
 /g-s-bhavesh-kumar-portfolio
 │
